@@ -9,7 +9,7 @@ $use_auth = true;
 
 // Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
 $auth_users = array(
-    'ver1337' => 'vet1337',
+    'ver1337' => 'ver1337',
 );
 
 // Enable highlight.js (https://highlightjs.org/) on view's page
